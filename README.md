@@ -2,5 +2,7 @@
 
 Contributors:
     Khushi Bansal
+    <br>
     Dhanraj L. Bhosale
+    <br>
     Ritika Kumari
